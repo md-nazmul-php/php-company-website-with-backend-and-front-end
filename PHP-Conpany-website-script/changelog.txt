@@ -1,0 +1,33 @@
+Version: 2.0.1
+  - Fixed hero background image issue that appeared in Chrome browser
+  
+Version: 2.0.0
+  - The template was rebuilt from scratch with the latest Bootstrap version (4.4.1)
+  - Added SMPTP support for the contact form script (Pro)
+  - Added NodeJS NPM Development version (Pro unlimited & Membership members)
+  
+Version: 1.0.0
+- Initial Release
+============================================================================================
+Raw PHP Application
+We are the best in PHP (codeIgniter and Laravel). We are using latest technology for making web application. So you will be happy like previous clients.
+
+Play With Application
+We are the skillful team, ready to play within your web application. Your web application will be made with high quality protection and latest design
+
+Wordpress Design
+Have skillful team and ready to make Wordpress application. Your web application will be made with high quality protection and latest design
+
+Portfolio Website
+We are ready to make HIGH QUALITY and LATEST Portfolio website for you. So you can submit your CV anywhere through the WEBSITE.
+
+One Page Application
+We are making One page website (Static and Dynamic). Always we are providing top quality services. Because Have a strong team with skillful person.
+
+
+
+
+
+
+
+
