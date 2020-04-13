@@ -1,0 +1,13 @@
+#bg-pic{
+		background-color: whitesmoke;
+	}
+	#div-padding{
+		padding-top: 10%;
+		padding-bottom: 10%;
+	}
+	#div-size{
+		width: 350px;
+		height: 320px;
+		background-color: rgba(223, 243, 251, 0.6);
+		margin: 0 auto;
+	}
