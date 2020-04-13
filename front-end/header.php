@@ -1,4 +1,3 @@
-
 <?php 
   include './global/db.php';
   $query="SELECT id, title FROM site_title WHERE id = '1'";
@@ -50,12 +49,6 @@ $site_title= $row[1]; // the email value
   <?php echo '<link href="assets/css/style.css" rel="stylesheet" type="text/css" >'; ?>
 
 
-  <!-- =======================================================
-  * Template Name: Moderna - v2.0.1
-  * Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
@@ -100,7 +93,6 @@ $site_title= $row[1]; // the email value
         <?php } } ?>
         </ul>
       </nav>
-      <!--  end nav bar -->
 
 
 
